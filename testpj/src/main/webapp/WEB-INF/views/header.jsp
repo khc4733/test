@@ -5,8 +5,7 @@
 <%  request.setCharacterEncoding("UTF-8"); %>
 <!DOCTYPE html>
 
-<link href="${pageContext.request.contextPath}/_css/weather-icons.css" type="text/css" rel="stylesheet">
-<link href="${pageContext.request.contextPath}/_css/weather-icons-wind.css" type="text/css" rel="stylesheet">
+<link href="${pageContext.request.contextPath}/css/front.css" type="text/css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
 <div id="header_container">
