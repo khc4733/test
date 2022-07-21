@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
  hellow
+=======
+
+  nono
+>>>>>>> branchB
 </body>
 </html>
